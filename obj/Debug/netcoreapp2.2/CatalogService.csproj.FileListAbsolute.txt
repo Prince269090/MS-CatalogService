@@ -1,0 +1,14 @@
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\bin\Debug\netcoreapp2.2\CatalogService.deps.json
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\bin\Debug\netcoreapp2.2\CatalogService.runtimeconfig.json
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\bin\Debug\netcoreapp2.2\CatalogService.runtimeconfig.dev.json
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\bin\Debug\netcoreapp2.2\CatalogService.dll
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\bin\Debug\netcoreapp2.2\CatalogService.pdb
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.csprojAssemblyReference.cache
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.csproj.CoreCompileInputs.cache
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.RazorAssemblyInfo.cache
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.RazorAssemblyInfo.cs
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.AssemblyInfoInputs.cache
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.AssemblyInfo.cs
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.RazorTargetAssemblyInfo.cache
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.dll
+D:\Projects\Others\Samples\Microservices\src\Services\CatalogService\obj\Debug\netcoreapp2.2\CatalogService.pdb
